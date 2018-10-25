@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://lilianxj.github.io/"/>
   <updated>2018-10-25T12:15:34.327Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://lilianxj.github.io/</id>
   
   <author>
     <name>Lilian | 简书爱</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>有效学习如何发生（二）</title>
-    <link href="http://yoursite.com/2018/10/25/%E6%9C%89%E6%95%88%E5%AD%A6%E4%B9%A0%E5%A6%82%E4%BD%95%E5%8F%91%E7%94%9F%EF%BC%9F%EF%BC%88%E4%BA%8C%EF%BC%89/"/>
-    <id>http://yoursite.com/2018/10/25/有效学习如何发生？（二）/</id>
+    <link href="https://lilianxj.github.io/2018/10/25/%E6%9C%89%E6%95%88%E5%AD%A6%E4%B9%A0%E5%A6%82%E4%BD%95%E5%8F%91%E7%94%9F%EF%BC%9F%EF%BC%88%E4%BA%8C%EF%BC%89/"/>
+    <id>https://lilianxj.github.io/2018/10/25/有效学习如何发生？（二）/</id>
     <published>2018-10-25T12:09:22.000Z</published>
     <updated>2018-10-25T12:15:34.327Z</updated>
     
@@ -34,21 +34,21 @@
     
     </summary>
     
-      <category term="聪明学习者的学生手册" scheme="http://yoursite.com/categories/%E8%81%AA%E6%98%8E%E5%AD%A6%E4%B9%A0%E8%80%85%E7%9A%84%E5%AD%A6%E7%94%9F%E6%89%8B%E5%86%8C/"/>
+      <category term="聪明学习者的学生手册" scheme="https://lilianxj.github.io/categories/%E8%81%AA%E6%98%8E%E5%AD%A6%E4%B9%A0%E8%80%85%E7%9A%84%E5%AD%A6%E7%94%9F%E6%89%8B%E5%86%8C/"/>
     
     
-      <category term="学习" scheme="http://yoursite.com/tags/%E5%AD%A6%E4%B9%A0/"/>
+      <category term="学习" scheme="https://lilianxj.github.io/tags/%E5%AD%A6%E4%B9%A0/"/>
     
-      <category term="记忆" scheme="http://yoursite.com/tags/%E8%AE%B0%E5%BF%86/"/>
+      <category term="记忆" scheme="https://lilianxj.github.io/tags/%E8%AE%B0%E5%BF%86/"/>
     
-      <category term="必要难度理论" scheme="http://yoursite.com/tags/%E5%BF%85%E8%A6%81%E9%9A%BE%E5%BA%A6%E7%90%86%E8%AE%BA/"/>
+      <category term="必要难度理论" scheme="https://lilianxj.github.io/tags/%E5%BF%85%E8%A6%81%E9%9A%BE%E5%BA%A6%E7%90%86%E8%AE%BA/"/>
     
   </entry>
   
   <entry>
     <title>你不知道的事</title>
-    <link href="http://yoursite.com/2018/10/25/%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%E4%BA%8B/"/>
-    <id>http://yoursite.com/2018/10/25/你不知道的事/</id>
+    <link href="https://lilianxj.github.io/2018/10/25/%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%E4%BA%8B/"/>
+    <id>https://lilianxj.github.io/2018/10/25/你不知道的事/</id>
     <published>2018-10-25T11:50:15.000Z</published>
     <updated>2018-10-25T11:57:01.920Z</updated>
     
@@ -63,17 +63,17 @@
     
     </summary>
     
-      <category term="小说创作" scheme="http://yoursite.com/categories/%E5%B0%8F%E8%AF%B4%E5%88%9B%E4%BD%9C/"/>
+      <category term="小说创作" scheme="https://lilianxj.github.io/categories/%E5%B0%8F%E8%AF%B4%E5%88%9B%E4%BD%9C/"/>
     
     
-      <category term="短篇" scheme="http://yoursite.com/tags/%E7%9F%AD%E7%AF%87/"/>
+      <category term="短篇" scheme="https://lilianxj.github.io/tags/%E7%9F%AD%E7%AF%87/"/>
     
   </entry>
   
   <entry>
     <title>总要有些契机，我们才有找回初衷的勇气</title>
-    <link href="http://yoursite.com/2018/10/15/%E6%80%BB%E8%A6%81%E6%9C%89%E4%BA%9B%E5%A5%91%E6%9C%BA%EF%BC%8C%E6%88%91%E4%BB%AC%E6%89%8D%E6%9C%89%E6%89%BE%E5%9B%9E%E5%88%9D%E8%A1%B7%E7%9A%84%E5%8B%87%E6%B0%94/"/>
-    <id>http://yoursite.com/2018/10/15/总要有些契机，我们才有找回初衷的勇气/</id>
+    <link href="https://lilianxj.github.io/2018/10/15/%E6%80%BB%E8%A6%81%E6%9C%89%E4%BA%9B%E5%A5%91%E6%9C%BA%EF%BC%8C%E6%88%91%E4%BB%AC%E6%89%8D%E6%9C%89%E6%89%BE%E5%9B%9E%E5%88%9D%E8%A1%B7%E7%9A%84%E5%8B%87%E6%B0%94/"/>
+    <id>https://lilianxj.github.io/2018/10/15/总要有些契机，我们才有找回初衷的勇气/</id>
     <published>2018-10-14T17:50:56.000Z</published>
     <updated>2018-10-14T18:02:23.667Z</updated>
     
@@ -88,17 +88,17 @@
     
     </summary>
     
-      <category term="阅读心得" scheme="http://yoursite.com/categories/%E9%98%85%E8%AF%BB%E5%BF%83%E5%BE%97/"/>
+      <category term="阅读心得" scheme="https://lilianxj.github.io/categories/%E9%98%85%E8%AF%BB%E5%BF%83%E5%BE%97/"/>
     
     
-      <category term="法国文学" scheme="http://yoursite.com/tags/%E6%B3%95%E5%9B%BD%E6%96%87%E5%AD%A6/"/>
+      <category term="法国文学" scheme="https://lilianxj.github.io/tags/%E6%B3%95%E5%9B%BD%E6%96%87%E5%AD%A6/"/>
     
   </entry>
   
   <entry>
     <title>有效学习如何发生？（一）</title>
-    <link href="http://yoursite.com/2018/10/15/%E6%9C%89%E6%95%88%E5%AD%A6%E4%B9%A0%E5%A6%82%E4%BD%95%E5%8F%91%E7%94%9F%EF%BC%9F%EF%BC%88%E4%B8%80%EF%BC%89/"/>
-    <id>http://yoursite.com/2018/10/15/有效学习如何发生？（一）/</id>
+    <link href="https://lilianxj.github.io/2018/10/15/%E6%9C%89%E6%95%88%E5%AD%A6%E4%B9%A0%E5%A6%82%E4%BD%95%E5%8F%91%E7%94%9F%EF%BC%9F%EF%BC%88%E4%B8%80%EF%BC%89/"/>
+    <id>https://lilianxj.github.io/2018/10/15/有效学习如何发生？（一）/</id>
     <published>2018-10-14T17:05:10.000Z</published>
     <updated>2018-10-14T17:42:56.961Z</updated>
     
@@ -113,33 +113,33 @@
     
     </summary>
     
-      <category term="聪明学习者的学生手册" scheme="http://yoursite.com/categories/%E8%81%AA%E6%98%8E%E5%AD%A6%E4%B9%A0%E8%80%85%E7%9A%84%E5%AD%A6%E7%94%9F%E6%89%8B%E5%86%8C/"/>
+      <category term="聪明学习者的学生手册" scheme="https://lilianxj.github.io/categories/%E8%81%AA%E6%98%8E%E5%AD%A6%E4%B9%A0%E8%80%85%E7%9A%84%E5%AD%A6%E7%94%9F%E6%89%8B%E5%86%8C/"/>
     
     
-      <category term="学习" scheme="http://yoursite.com/tags/%E5%AD%A6%E4%B9%A0/"/>
+      <category term="学习" scheme="https://lilianxj.github.io/tags/%E5%AD%A6%E4%B9%A0/"/>
     
-      <category term="记忆" scheme="http://yoursite.com/tags/%E8%AE%B0%E5%BF%86/"/>
+      <category term="记忆" scheme="https://lilianxj.github.io/tags/%E8%AE%B0%E5%BF%86/"/>
     
-      <category term="理解" scheme="http://yoursite.com/tags/%E7%90%86%E8%A7%A3/"/>
+      <category term="理解" scheme="https://lilianxj.github.io/tags/%E7%90%86%E8%A7%A3/"/>
     
-      <category term="整合" scheme="http://yoursite.com/tags/%E6%95%B4%E5%90%88/"/>
+      <category term="整合" scheme="https://lilianxj.github.io/tags/%E6%95%B4%E5%90%88/"/>
     
-      <category term="拓展" scheme="http://yoursite.com/tags/%E6%8B%93%E5%B1%95/"/>
+      <category term="拓展" scheme="https://lilianxj.github.io/tags/%E6%8B%93%E5%B1%95/"/>
     
-      <category term="活用" scheme="http://yoursite.com/tags/%E6%B4%BB%E7%94%A8/"/>
+      <category term="活用" scheme="https://lilianxj.github.io/tags/%E6%B4%BB%E7%94%A8/"/>
     
-      <category term="深度学习" scheme="http://yoursite.com/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/"/>
+      <category term="深度学习" scheme="https://lilianxj.github.io/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/"/>
     
-      <category term="合奏效应" scheme="http://yoursite.com/tags/%E5%90%88%E5%A5%8F%E6%95%88%E5%BA%94/"/>
+      <category term="合奏效应" scheme="https://lilianxj.github.io/tags/%E5%90%88%E5%A5%8F%E6%95%88%E5%BA%94/"/>
     
-      <category term="神经连结" scheme="http://yoursite.com/tags/%E7%A5%9E%E7%BB%8F%E8%BF%9E%E7%BB%93/"/>
+      <category term="神经连结" scheme="https://lilianxj.github.io/tags/%E7%A5%9E%E7%BB%8F%E8%BF%9E%E7%BB%93/"/>
     
   </entry>
   
   <entry>
     <title>亲爱的，什么样的学习才有效？ （二）</title>
-    <link href="http://yoursite.com/2018/10/15/%E4%BA%B2%E7%88%B1%E7%9A%84%EF%BC%8C%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E5%AD%A6%E4%B9%A0%E6%89%8D%E6%9C%89%E6%95%88%EF%BC%9F%EF%BC%88%E4%BA%8C%EF%BC%89/"/>
-    <id>http://yoursite.com/2018/10/15/亲爱的，什么样的学习才有效？（二）/</id>
+    <link href="https://lilianxj.github.io/2018/10/15/%E4%BA%B2%E7%88%B1%E7%9A%84%EF%BC%8C%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E5%AD%A6%E4%B9%A0%E6%89%8D%E6%9C%89%E6%95%88%EF%BC%9F%EF%BC%88%E4%BA%8C%EF%BC%89/"/>
+    <id>https://lilianxj.github.io/2018/10/15/亲爱的，什么样的学习才有效？（二）/</id>
     <published>2018-10-14T17:04:43.000Z</published>
     <updated>2018-10-14T17:31:15.281Z</updated>
     
@@ -154,29 +154,29 @@
     
     </summary>
     
-      <category term="聪明学习者的学生手册" scheme="http://yoursite.com/categories/%E8%81%AA%E6%98%8E%E5%AD%A6%E4%B9%A0%E8%80%85%E7%9A%84%E5%AD%A6%E7%94%9F%E6%89%8B%E5%86%8C/"/>
+      <category term="聪明学习者的学生手册" scheme="https://lilianxj.github.io/categories/%E8%81%AA%E6%98%8E%E5%AD%A6%E4%B9%A0%E8%80%85%E7%9A%84%E5%AD%A6%E7%94%9F%E6%89%8B%E5%86%8C/"/>
     
     
-      <category term="学习" scheme="http://yoursite.com/tags/%E5%AD%A6%E4%B9%A0/"/>
+      <category term="学习" scheme="https://lilianxj.github.io/tags/%E5%AD%A6%E4%B9%A0/"/>
     
-      <category term="定势" scheme="http://yoursite.com/tags/%E5%AE%9A%E5%8A%BF/"/>
+      <category term="定势" scheme="https://lilianxj.github.io/tags/%E5%AE%9A%E5%8A%BF/"/>
     
-      <category term="迁移" scheme="http://yoursite.com/tags/%E8%BF%81%E7%A7%BB/"/>
+      <category term="迁移" scheme="https://lilianxj.github.io/tags/%E8%BF%81%E7%A7%BB/"/>
     
-      <category term="神经可塑性" scheme="http://yoursite.com/tags/%E7%A5%9E%E7%BB%8F%E5%8F%AF%E5%A1%91%E6%80%A7/"/>
+      <category term="神经可塑性" scheme="https://lilianxj.github.io/tags/%E7%A5%9E%E7%BB%8F%E5%8F%AF%E5%A1%91%E6%80%A7/"/>
     
-      <category term="成长型思维" scheme="http://yoursite.com/tags/%E6%88%90%E9%95%BF%E5%9E%8B%E6%80%9D%E7%BB%B4/"/>
+      <category term="成长型思维" scheme="https://lilianxj.github.io/tags/%E6%88%90%E9%95%BF%E5%9E%8B%E6%80%9D%E7%BB%B4/"/>
     
-      <category term="自证预言" scheme="http://yoursite.com/tags/%E8%87%AA%E8%AF%81%E9%A2%84%E8%A8%80/"/>
+      <category term="自证预言" scheme="https://lilianxj.github.io/tags/%E8%87%AA%E8%AF%81%E9%A2%84%E8%A8%80/"/>
     
-      <category term="比龙马效应" scheme="http://yoursite.com/tags/%E6%AF%94%E9%BE%99%E9%A9%AC%E6%95%88%E5%BA%94/"/>
+      <category term="比龙马效应" scheme="https://lilianxj.github.io/tags/%E6%AF%94%E9%BE%99%E9%A9%AC%E6%95%88%E5%BA%94/"/>
     
   </entry>
   
   <entry>
     <title>亲爱的，什么样的学习才有效？（一）</title>
-    <link href="http://yoursite.com/2018/10/15/%E4%BA%B2%E7%88%B1%E7%9A%84%EF%BC%8C%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E5%AD%A6%E4%B9%A0%E6%89%8D%E6%9C%89%E6%95%88%EF%BC%9F%EF%BC%88%E4%B8%80%EF%BC%89/"/>
-    <id>http://yoursite.com/2018/10/15/亲爱的，什么样的学习才有效？（一）/</id>
+    <link href="https://lilianxj.github.io/2018/10/15/%E4%BA%B2%E7%88%B1%E7%9A%84%EF%BC%8C%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E5%AD%A6%E4%B9%A0%E6%89%8D%E6%9C%89%E6%95%88%EF%BC%9F%EF%BC%88%E4%B8%80%EF%BC%89/"/>
+    <id>https://lilianxj.github.io/2018/10/15/亲爱的，什么样的学习才有效？（一）/</id>
     <published>2018-10-14T17:04:02.000Z</published>
     <updated>2018-10-14T17:30:33.796Z</updated>
     
@@ -191,23 +191,23 @@
     
     </summary>
     
-      <category term="聪明学习者的学生手册" scheme="http://yoursite.com/categories/%E8%81%AA%E6%98%8E%E5%AD%A6%E4%B9%A0%E8%80%85%E7%9A%84%E5%AD%A6%E7%94%9F%E6%89%8B%E5%86%8C/"/>
+      <category term="聪明学习者的学生手册" scheme="https://lilianxj.github.io/categories/%E8%81%AA%E6%98%8E%E5%AD%A6%E4%B9%A0%E8%80%85%E7%9A%84%E5%AD%A6%E7%94%9F%E6%89%8B%E5%86%8C/"/>
     
     
-      <category term="学习" scheme="http://yoursite.com/tags/%E5%AD%A6%E4%B9%A0/"/>
+      <category term="学习" scheme="https://lilianxj.github.io/tags/%E5%AD%A6%E4%B9%A0/"/>
     
-      <category term="思考" scheme="http://yoursite.com/tags/%E6%80%9D%E8%80%83/"/>
+      <category term="思考" scheme="https://lilianxj.github.io/tags/%E6%80%9D%E8%80%83/"/>
     
-      <category term="决策" scheme="http://yoursite.com/tags/%E5%86%B3%E7%AD%96/"/>
+      <category term="决策" scheme="https://lilianxj.github.io/tags/%E5%86%B3%E7%AD%96/"/>
     
-      <category term="智慧" scheme="http://yoursite.com/tags/%E6%99%BA%E6%85%A7/"/>
+      <category term="智慧" scheme="https://lilianxj.github.io/tags/%E6%99%BA%E6%85%A7/"/>
     
   </entry>
   
   <entry>
     <title>你是天上的狮子星</title>
-    <link href="http://yoursite.com/2018/10/11/%E4%BD%A0%E6%98%AF%E5%A4%A9%E4%B8%8A%E7%9A%84%E7%8B%AE%E5%AD%90%E6%98%9F/"/>
-    <id>http://yoursite.com/2018/10/11/你是天上的狮子星/</id>
+    <link href="https://lilianxj.github.io/2018/10/11/%E4%BD%A0%E6%98%AF%E5%A4%A9%E4%B8%8A%E7%9A%84%E7%8B%AE%E5%AD%90%E6%98%9F/"/>
+    <id>https://lilianxj.github.io/2018/10/11/你是天上的狮子星/</id>
     <published>2018-10-11T15:56:23.000Z</published>
     <updated>2018-10-11T16:02:37.352Z</updated>
     
@@ -222,19 +222,19 @@
     
     </summary>
     
-      <category term="小说创作" scheme="http://yoursite.com/categories/%E5%B0%8F%E8%AF%B4%E5%88%9B%E4%BD%9C/"/>
+      <category term="小说创作" scheme="https://lilianxj.github.io/categories/%E5%B0%8F%E8%AF%B4%E5%88%9B%E4%BD%9C/"/>
     
     
-      <category term="短篇" scheme="http://yoursite.com/tags/%E7%9F%AD%E7%AF%87/"/>
+      <category term="短篇" scheme="https://lilianxj.github.io/tags/%E7%9F%AD%E7%AF%87/"/>
     
-      <category term="校园" scheme="http://yoursite.com/tags/%E6%A0%A1%E5%9B%AD/"/>
+      <category term="校园" scheme="https://lilianxj.github.io/tags/%E6%A0%A1%E5%9B%AD/"/>
     
   </entry>
   
   <entry>
     <title>作者，你该认清“故事”是什么样的存在</title>
-    <link href="http://yoursite.com/2018/10/11/%E4%BD%9C%E8%80%85%EF%BC%8C%E4%BD%A0%E8%AF%A5%E8%AE%A4%E6%B8%85%E2%80%9C%E6%95%85%E4%BA%8B%E2%80%9D%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E5%AD%98%E5%9C%A8/"/>
-    <id>http://yoursite.com/2018/10/11/作者，你该认清“故事”是什么样的存在/</id>
+    <link href="https://lilianxj.github.io/2018/10/11/%E4%BD%9C%E8%80%85%EF%BC%8C%E4%BD%A0%E8%AF%A5%E8%AE%A4%E6%B8%85%E2%80%9C%E6%95%85%E4%BA%8B%E2%80%9D%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E5%AD%98%E5%9C%A8/"/>
+    <id>https://lilianxj.github.io/2018/10/11/作者，你该认清“故事”是什么样的存在/</id>
     <published>2018-10-11T12:19:28.000Z</published>
     <updated>2018-10-14T17:30:03.383Z</updated>
     
@@ -249,12 +249,12 @@
     
     </summary>
     
-      <category term="从零开始的写作修炼术" scheme="http://yoursite.com/categories/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%86%99%E4%BD%9C%E4%BF%AE%E7%82%BC%E6%9C%AF/"/>
+      <category term="从零开始的写作修炼术" scheme="https://lilianxj.github.io/categories/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%86%99%E4%BD%9C%E4%BF%AE%E7%82%BC%E6%9C%AF/"/>
     
     
-      <category term="写作" scheme="http://yoursite.com/tags/%E5%86%99%E4%BD%9C/"/>
+      <category term="写作" scheme="https://lilianxj.github.io/tags/%E5%86%99%E4%BD%9C/"/>
     
-      <category term="故事" scheme="http://yoursite.com/tags/%E6%95%85%E4%BA%8B/"/>
+      <category term="故事" scheme="https://lilianxj.github.io/tags/%E6%95%85%E4%BA%8B/"/>
     
   </entry>
   
